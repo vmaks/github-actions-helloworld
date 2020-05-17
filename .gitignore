@@ -146,4 +146,3 @@ sketch
 # End of https://www.gitignore.io/api/java,react,kotlin,intellij
 
 .idea/
-demo-server/src/main/resources/static/
